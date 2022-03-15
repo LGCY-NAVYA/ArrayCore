@@ -53,9 +53,9 @@
 
 # Credits
 - Team
-  - [Vemon](https://github.com/Desinobita)   ``Creator``
-  - [HellBoy](https://github.com/HellBoy-OP) ``Dev``
-  - [RiZoeL](https://github.com/MrRizoel)    ``Dev``
+  - [Navya](https://t.me/NavyA_Op)   ``Creator``
+  - [Alex](https://t.me/lgcyalex) ``Fazal``
+  - [Cobra](https://t.me/cobra8xop)    ``Vicky``
 
 - Libraries
   - [pytgcalls](https://github.com/pytgcalls/pytgcalls)
